@@ -1,4 +1,4 @@
 # hello-world
 
-David vagyok helo.
-salala
+David vagyok helo. mivan
+salala 
