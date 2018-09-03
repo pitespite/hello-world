@@ -1,4 +1,3 @@
 # hello-world
 
-I'm David. salalalala
-blablabla
+first one
